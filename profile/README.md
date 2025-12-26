@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/49758/l/universal-media-server-logo.png?v=1659380109" width="200" alt="Universal Media Server macOS application icon"><br>
+ <img src="https://img.utdstc.com/icon/1aa/166/1aa166cf24e0b137fc2f6c8c47f8096ab31d5b470c50375dbf51eea6d7dce13c:200" width="200" alt="Universal Media Server macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/UniversalMediaServer">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Universal Media Server macOS page">
  </a><br><br>
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://static.macupdate.com/screenshots/341285/m/universal-media-server-screenshot.png?v=1659380121" width="500" alt="Universal Media Server interface showing main workspace">
+ <img src="https://cdn.neowin.com/news/images/uploaded/2025/04/1745832663_universal_media_server.jpg" width="500" alt="Universal Media Server interface showing main workspace">
  </td>
  </tr>
  </table>
