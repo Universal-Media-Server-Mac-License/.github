@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://img.utdstc.com/icon/1aa/166/1aa166cf24e0b137fc2f6c8c47f8096ab31d5b470c50375dbf51eea6d7dce13c:200" width="200" alt="Universal Media Server macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/UniversalMediaServer">
+ <a href="https://gnomik-gomik-apps.github.io/.github/UniversalMediaServer">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Universal Media Server macOS page">
  </a><br><br>
  <div align="center">
